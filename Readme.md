@@ -15,7 +15,7 @@ Padé yaklaşımı, bir fonksiyonu rasyonel bir kesirle (polinomların oranı) y
 
 Bu örnekte e^x fonksiyonu için bir [2/2] Padé yaklaşımı yapılacaktır.
 
-## Hangi Durumda Hangisi Daha İyi?
+##  Hangi Durumda Hangisi Daha İyi?
 
 | Durum                              | Taylor                | Padé                  |
 |------------------------------------|-----------------------|-----------------------|
