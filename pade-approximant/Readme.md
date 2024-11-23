@@ -25,15 +25,6 @@ Bu örnekte e^x fonksiyonu için bir [2/2] Padé yaklaşımı yapılacaktır.
 | Hızlı hesaplama gereken durumlar   | ✅                    | ❌                    |
 | Osilasyonlu fonksiyonlar (sin, cos)| ✅ (Yakın noktada)    | ✅ (Geniş aralıkta)   |
 
-## Kullanım
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip3 install -r requirements.txt
-python __main__.py
-```
-
 ## Sonuç
 
 ![Figure_1](Figure_1.png)
